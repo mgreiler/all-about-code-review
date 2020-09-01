@@ -3,6 +3,7 @@ This is a list of awesome articles about code reviews.
 
 
 ## Inisghts of different companies on their code review practices:
+- [Facebook: Scaling Static Analyses at Facebook](https://research.fb.com/publications/scaling-static-analyses-at-facebook/)
 - [Google: Focusing on fast code reviews](https://www.michaelagreiler.com/code-reviews-at-google/)
 - [Google: Code review guidelines](https://google.github.io/eng-practices/review/)
 - [Microsoft: Understanding best practices](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
