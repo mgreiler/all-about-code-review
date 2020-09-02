@@ -3,8 +3,6 @@
 This is a collection of articles, tools, trainings, checklists and other awesome resources about code reviews.
 
 ## Code Review Tools
-
-### Established Tools
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [CodeGuru](https://aws.amazon.com/codeguru): Amazon's AI enabled automated code analysis tool.
 - [CodeStream](https://www.codestream.com/) Code Collaboration Tool that allows for continious code reviews.
@@ -24,14 +22,11 @@ This is a collection of articles, tools, trainings, checklists and other awesome
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
-
-### New and noteworthy tools
-
-# Articles about Code Reviews
+## Articles about Code Reviews
 This is a list of awesome articles about code reviews.
 
 
-## Inisghts of different companies on their code review practices:
+### Inisghts of different companies on their code review practices:
 - [Facebook: Scaling Static Analyses at Facebook](https://research.fb.com/publications/scaling-static-analyses-at-facebook/)
 - [Google: Focusing on fast code reviews](https://www.michaelagreiler.com/code-reviews-at-google/)
 - [Google: Code review guidelines](https://google.github.io/eng-practices/review/)
