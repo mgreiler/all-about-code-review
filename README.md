@@ -2,6 +2,14 @@
 
 This is a collection of articles, tools, trainings, checklists and other awesome resources about code reviews.
 
+## Articles about Code Reviews
+This is a list of awesome articles about code reviews.
+- Stacked Pull Requests:
+  - [Stacked Diffs: Keeping Phabricator Diffs Small by Kurtis Nusbaum](https://medium.com/@kurtisnusbaum/stacked-diffs-keeping-phabricator-diffs-small-d9964f4dcfa6)
+  - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
+  - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
+
+
 ## Code Review Tools
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [CodeGuru](https://aws.amazon.com/codeguru): Amazon's AI enabled automated code analysis tool.
@@ -22,8 +30,7 @@ This is a collection of articles, tools, trainings, checklists and other awesome
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
-## Articles about Code Reviews
-This is a list of awesome articles about code reviews.
+
 
 
 ### Inisghts of different companies on their code review practices:
