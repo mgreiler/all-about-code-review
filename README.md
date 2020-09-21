@@ -9,6 +9,8 @@ This is a list of awesome articles about code reviews.
   - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
 
+## Videos about Code Reviews
+- [Amazing Code Reviews: Creating a Superhero Collective by Alejandro Lujan for GOTO 2019](https://youtu.be/ly86Wq_E18o)
 
 ## Code Review Tools
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
@@ -29,8 +31,6 @@ This is a list of awesome articles about code reviews.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
-
-
 
 
 ### Inisghts of different companies on their code review practices:
