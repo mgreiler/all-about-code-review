@@ -3,7 +3,11 @@
 This is a collection of articles, tools, trainings, checklists and other awesome resources about code reviews.
 
 ## Articles about Code Reviews
-This is a list of awesome articles about code reviews.
+This is a list of articles about code reviews grouped by the main topic.
+- Giving and Receiving Feedback
+  - [How to Do Code Reviews Like a Human by Michal Lynch](https://mtlynch.io/human-code-reviews-1/)
+  - [How to Give Respectful and Constructive Code Review Feedback](https://www.michaelagreiler.com/respectful-constructive-code-review-feedback/)
+  - [Unlearning Toxic Behaviors in a Code Review Culture by Sandya Sankarram](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
 - Stacked Pull Requests:
   - [Stacked Diffs: Keeping Phabricator Diffs Small by Kurtis Nusbaum](https://medium.com/@kurtisnusbaum/stacked-diffs-keeping-phabricator-diffs-small-d9964f4dcfa6)
   - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
