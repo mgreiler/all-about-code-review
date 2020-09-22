@@ -2,7 +2,25 @@
 
 This is a collection of articles, tools, trainings, checklists and other awesome resources about code reviews.
 
-## Articles about Code Reviews
+## Contents
+
+- [Company Insights](#company-insights)
+- [Code Review Articles](#code-review-articles)
+- [Code Rveiw Tools](#code-review-tools)
+- [Code Review Videos](#code-review-videos)
+
+
+## Company Insights
+Inisghts of different companies on their code review practices:
+- [Facebook: Scaling Static Analyses at Facebook](https://research.fb.com/publications/scaling-static-analyses-at-facebook/)
+- [Google: Focusing on fast code reviews](https://www.michaelagreiler.com/code-reviews-at-google/)
+- [Google: Code review guidelines](https://google.github.io/eng-practices/review/)
+- [Microsoft: Understanding best practices](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
+- [Netlify: Feedback Ladders to encode review feedback](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
+- [Palantir: How we do code reviews](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+- [Quora: Using post-commit reviews to increase speed.](https://www.quora.com/q/quoraengineering/Moving-Fast-With-High-Code-Quality)
+
+## Code Review Articles
 This is a list of articles about code reviews grouped by the main topic.
 - Giving and Receiving Feedback
   - [How to Do Code Reviews Like a Human by Michal Lynch](https://mtlynch.io/human-code-reviews-1/)
@@ -13,7 +31,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
 
-## Videos about Code Reviews
+## Code Review Videos
 - [Amazing Code Reviews: Creating a Superhero Collective by Alejandro Lujan for GOTO 2019](https://youtu.be/ly86Wq_E18o)
 
 ## Code Review Tools
@@ -36,12 +54,3 @@ This is a list of articles about code reviews grouped by the main topic.
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
-
-### Inisghts of different companies on their code review practices:
-- [Facebook: Scaling Static Analyses at Facebook](https://research.fb.com/publications/scaling-static-analyses-at-facebook/)
-- [Google: Focusing on fast code reviews](https://www.michaelagreiler.com/code-reviews-at-google/)
-- [Google: Code review guidelines](https://google.github.io/eng-practices/review/)
-- [Microsoft: Understanding best practices](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
-- [Netlify: Feedback Ladders to encode review feedback](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
-- [Palantir: How we do code reviews](https://medium.com/palantir/code-review-best-practices-19e02780015f)
-- [Quora: Using post-commit reviews to increase speed.](https://www.quora.com/q/quoraengineering/Moving-Fast-With-High-Code-Quality)
