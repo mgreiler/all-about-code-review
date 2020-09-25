@@ -6,7 +6,7 @@ This is a collection of articles, tools, trainings, checklists and other awesome
 
 - [Company Insights](#company-insights)
 - [Code Review Articles](#code-review-articles)
-- [Code Rveiw Tools](#code-review-tools)
+- [Code Review Tools](#code-review-tools)
 - [Code Review Videos](#code-review-videos)
 
 
