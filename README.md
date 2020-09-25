@@ -34,7 +34,9 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
 
 ## Code Review Videos
+- [10 Tips on How to give respectful code review feedback by Michaela Greiler](https://youtu.be/NNXk_WJzyMI)
 - [Amazing Code Reviews: Creating a Superhero Collective by Alejandro Lujan for GOTO 2019](https://youtu.be/ly86Wq_E18o)
+
 
 ## Code Review Tools
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
