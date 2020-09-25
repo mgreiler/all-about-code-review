@@ -30,8 +30,10 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Unlearning Toxic Behaviors in a Code Review Culture by Sandya Sankarram](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
 - Stacked Pull Requests:
   - [Stacked Diffs: Keeping Phabricator Diffs Small by Kurtis Nusbaum](https://medium.com/@kurtisnusbaum/stacked-diffs-keeping-phabricator-diffs-small-d9964f4dcfa6)
+  - [Stacked Pull Requests for easier and faster code reviews by Michaela Greiler](https://www.michaelagreiler.com/stacked-pull-requests/)
   - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
+
 
 ## Code Review Videos
 - [10 Tips on How to give respectful code review feedback by Michaela Greiler](https://youtu.be/NNXk_WJzyMI)
