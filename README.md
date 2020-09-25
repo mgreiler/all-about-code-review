@@ -2,6 +2,8 @@
 
 This is a collection of articles, tools, trainings, checklists and other awesome resources about code reviews.
 
+Contributions are very welcome. 
+
 ## Contents
 
 - [Company Insights](#company-insights)
