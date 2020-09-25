@@ -52,5 +52,6 @@ This is a list of articles about code reviews grouped by the main topic.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
+- [TugBoat](https://www.tugboat.qa/) Builds and deploys each pull request for easier previews of the code under review.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
