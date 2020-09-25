@@ -10,6 +10,7 @@ Contributions are very welcome.
 - [Code Review Articles](#code-review-articles)
 - [Code Review Tools](#code-review-tools)
 - [Code Review Videos](#code-review-videos)
+- [Code Review Checklists](#code-review-checklists)
 
 
 ## Company Insights
@@ -60,4 +61,9 @@ This is a list of articles about code reviews grouped by the main topic.
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [TugBoat](https://www.tugboat.qa/) Builds and deploys each pull request for easier previews of the code under review.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+
+## Code Review Checklists
+- [General Code Review Checklists](https://github.com/mgreiler/code-review-checklist) A language agnostic code review checklist containing all relevant aspects.
+- [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/) A checklist with concrete examples, covering aspects relevant to object-oriented programming.
+- [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
 
