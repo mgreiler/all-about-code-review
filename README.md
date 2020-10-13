@@ -40,6 +40,9 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
 
 
+## Interesting Twitter Discussions
+- [What do we know about the ROI of code reviews?](https://twitter.com/hhariri/status/1315606185937166336?s=20)
+
 ## Code Review Videos
 - [10 Tips on How to give respectful code review feedback by Michaela Greiler](https://youtu.be/NNXk_WJzyMI)
 - [Amazing Code Reviews: Creating a Superhero Collective by Alejandro Lujan for GOTO 2019](https://youtu.be/ly86Wq_E18o)
