@@ -42,10 +42,11 @@ This is a list of articles about code reviews grouped by the main topic.
 
 ## Interesting Twitter Discussions
 - [What do we know about the ROI of code reviews?](https://twitter.com/hhariri/status/1315606185937166336?s=20)
-
+- [Discussion about PR foucs: Clean code not good. Bugs much better.](https://twitter.com/copyconstruct/status/1317277666823741440?s=20)
 ## Code Review Videos
 - [10 Tips on How to give respectful code review feedback by Michaela Greiler](https://youtu.be/NNXk_WJzyMI)
 - [Amazing Code Reviews: Creating a Superhero Collective by Alejandro Lujan for GOTO 2019](https://youtu.be/ly86Wq_E18o)
+- [AWS team lead summarizes how to do PRs](https://twitter.com/curtiseinsmann/status/1317149417330364421?s=20)
 
 
 ## Code Review Tools
