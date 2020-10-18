@@ -44,8 +44,12 @@ This is a list of articles about code reviews grouped by the main topic.
 - [What do we know about the ROI of code reviews?](https://twitter.com/hhariri/status/1315606185937166336?s=20)
 - [Discussion about PR foucs: Clean code not good. Bugs much better.](https://twitter.com/copyconstruct/status/1317277666823741440?s=20)
 - [AWS team lead summarizes how to do PRs](https://twitter.com/curtiseinsmann/status/1317149417330364421?s=20)
-- [Mini JavaScript Code Review in a Tweet: AVG](https://twitter.com/SimonHoiberg/status/1317488112147234817?s=20)
-- [Mini JavaScript Code Review in a Tweet: approve or reject?](https://twitter.com/SimonHoiberg/status/1313803838357467136?s=20)
+- Mini JavaScript Code Reviews in a Tweet from Simon Høiberg
+  - [What to do about the average function?](https://twitter.com/SimonHoiberg/status/1317488112147234817?s=20)
+  - [Should we approve or reject?](https://twitter.com/SimonHoiberg/status/1313803838357467136?s=20)
+  - [Clean refactoring?](https://twitter.com/SimonHoiberg/status/1310136847197061121?s=20)
+  - [What about this DOM element?](https://twitter.com/SimonHoiberg/status/1311191044915179521?s=20)
+  
 
 ## Code Review Videos
 - [10 Tips on How to give respectful code review feedback by Michaela Greiler](https://youtu.be/NNXk_WJzyMI)
