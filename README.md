@@ -82,3 +82,10 @@ This is a list of articles about code reviews grouped by the main topic.
 - [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/) A checklist with concrete examples, covering aspects relevant to object-oriented programming.
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
 
+
+## Losses due to low-quality software and technical debt
+- [Security upgrades by major banks in wake of Russian cyber hacks spark IT glitches and crash mobile banking](https://www.dailymail.co.uk/news/article-6217839/Chaos-HSBC-customers-hundreds-locked-account.html)
+- [Millions more bank customers hit by online account misery](https://www.thetimes.co.uk/article/millions-more-bank-customers-hit-by-online-account-misery-7xkcstxj3)
+- [Traders switch to rival after IT bug downs London Stock Exchange](https://www.thetimes.co.uk/edition/business/traders-switch-to-rival-after-it-bug-downs-london-stock-exchange-ct06tmlmp)
+- [Frequent Software Releases, Updates May Injure App Security](https://www.darkreading.com/application-security/frequent-software-releases-updates-may-injure-app-security/d/d-id/1330412)
+
