@@ -49,6 +49,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Should we approve or reject?](https://twitter.com/SimonHoiberg/status/1313803838357467136?s=20)
   - [Clean refactoring?](https://twitter.com/SimonHoiberg/status/1310136847197061121?s=20)
   - [What about this DOM element?](https://twitter.com/SimonHoiberg/status/1311191044915179521?s=20)
+  - [Using the filter method in JavaScript](https://twitter.com/SimonHoiberg/status/1320299813657825281?s=20)
   
 
 ## Code Review Videos
