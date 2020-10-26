@@ -22,6 +22,8 @@ Inisghts of different companies on their code review practices:
 - [Netlify: Feedback Ladders to encode review feedback](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
 - [Palantir: How we do code reviews](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 - [Quora: Using post-commit reviews to increase speed.](https://www.quora.com/q/quoraengineering/Moving-Fast-With-High-Code-Quality)
+- [PayPal's take on code reviews](https://medium.com/paypal-engineering/effective-code-reviews-53d62a203b2f)
+
 
 ## Code Review Articles
 This is a list of articles about code reviews grouped by the main topic.
@@ -77,6 +79,7 @@ This is a list of articles about code reviews grouped by the main topic.
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [TugBoat](https://www.tugboat.qa/) Builds and deploys each pull request for easier previews of the code under review.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+
 
 ## Code Review Checklists
 - [General Code Review Checklists](https://github.com/mgreiler/code-review-checklist) A language agnostic code review checklist containing all relevant aspects.
