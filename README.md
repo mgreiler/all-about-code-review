@@ -80,6 +80,11 @@ This is a list of articles about code reviews grouped by the main topic.
 - [TugBoat](https://www.tugboat.qa/) Builds and deploys each pull request for easier previews of the code under review.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
+### Experiemental tools 
+This section contains experiemental or small but handy bots that aim at making your live easier during code reviews.
+[Prout: Deploy Reminder](https://github.com/guardian/prout) that reminds you that your pull request has been deployed in production and is ready to be tested.
+[CodeSandbox CI bot](https://codesandbox.io/docs/ci) builds and deploys every pull request to allow code reviewers to see the code change in action.
+
 
 ## Code Review Checklists
 - [General Code Review Checklists](https://github.com/mgreiler/code-review-checklist) A language agnostic code review checklist containing all relevant aspects.
