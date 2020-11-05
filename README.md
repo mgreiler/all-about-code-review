@@ -2,7 +2,8 @@
 
 This is a curated collection of articles, tools, checklists and other awesome resources about code reviews.
 
-Contributions, especially highlighting how different companies do code reviews, are very welcome. If you want to suggest a new ressource, please open a pull request.
+Contributions, especially highlighting how different companies do code reviews, are very welcome. 
+If you want to suggest a new ressource, please open a pull request.
 
 ## Contents
 - [Company Insights](#company-insights)
