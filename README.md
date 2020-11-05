@@ -32,7 +32,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Satirical post about how to make code reviews soul crushing](https://daedtech.com/how-to-use-a-code-review-to-execute-someones-soul/)
 - Giving and Receiving Feedback
   - [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
-  - [How to Do Code Reviews Like a Human by Michal Lynch](https://mtlynch.io/human-code-reviews-1/)
+  - [How to Do Code Reviews Like a Human by Michael Lynch](https://mtlynch.io/human-code-reviews-1/)
   - [How to Give Respectful and Constructive Code Review Feedback](https://www.michaelagreiler.com/respectful-constructive-code-review-feedback/)
   - [Unlearning Toxic Behaviors in a Code Review Culture by Sandya Sankarram](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
 - Stacked Pull Requests:
