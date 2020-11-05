@@ -2,7 +2,7 @@
 
 This is a curated collection of articles, tools, checklists and other awesome resources about code reviews.
 
-Contributions, especially highlighting how different companies do code reviews, are very welcome. 
+Contributions welcome - especially highlighting how different companies do code reviews 
 If you want to suggest a new ressource, please open a pull request.
 
 ## Contents
