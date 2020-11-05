@@ -90,6 +90,7 @@ This section contains experiemental or small but handy bots that aim at making y
 
 
 ## Code Review Checklists
+- [A curated list of code review checklists](https://github.com/mgreiler/awesome-code-review-checklists) Contains code review checklists from General to Language-based (Java, C# etc.)
 - [General Code Review Checklists](https://github.com/mgreiler/code-review-checklist) A language agnostic code review checklist containing all relevant aspects.
 - [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/) A checklist with concrete examples, covering aspects relevant to object-oriented programming.
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
