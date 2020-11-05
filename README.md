@@ -18,7 +18,7 @@ Inisghts of different companies on their code review practices:
 - [Facebook: Scaling Static Analyses at Facebook](https://research.fb.com/publications/scaling-static-analyses-at-facebook/)
 - [Google: Focusing on fast code reviews](https://www.michaelagreiler.com/code-reviews-at-google/)
 - [Google: Code review guidelines](https://google.github.io/eng-practices/review/)
-- [Microsoft: Understanding best practices](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
+- [Microsoft: Understanding code review best practices](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
 - [Netlify: Feedback Ladders to encode review feedback](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
 - [New Relic: Creating Simple and Effective Guidelines for Code Reviews](https://blog.newrelic.com/engineering/code-review-guidelines/)
 - [Palantir: How we do code reviews](https://medium.com/palantir/code-review-best-practices-19e02780015f)
