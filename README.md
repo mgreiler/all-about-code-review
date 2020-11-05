@@ -20,6 +20,7 @@ Inisghts of different companies on their code review practices:
 - [Google: Code review guidelines](https://google.github.io/eng-practices/review/)
 - [Microsoft: Understanding best practices](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/)
 - [Netlify: Feedback Ladders to encode review feedback](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
+- [New Relic: Creating Simple and Effective Guidelines for Code Reviews](https://blog.newrelic.com/engineering/code-review-guidelines/)
 - [Palantir: How we do code reviews](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 - [Quora: Using post-commit reviews to increase speed.](https://www.quora.com/q/quoraengineering/Moving-Fast-With-High-Code-Quality)
 - [PayPal's take on code reviews](https://medium.com/paypal-engineering/effective-code-reviews-53d62a203b2f)
