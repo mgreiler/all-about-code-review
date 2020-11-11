@@ -29,8 +29,6 @@ Inisghts of different companies on their code review practices:
 
 ## Code Review Articles
 This is a list of articles about code reviews grouped by the main topic.
-- Bias in Code Reviews
-  - [Did gender bias drive code review differences at Facebook?](https://medium.com/inclusion-insights/did-gender-bias-drive-code-review-differences-at-facebook-2e1e4dbd8d62)
 - Do's and Don'ts in Code Reviews
   - [Satirical post about how to make code reviews soul crushing](https://daedtech.com/how-to-use-a-code-review-to-execute-someones-soul/)
 - Giving and Receiving Feedback
@@ -45,6 +43,9 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
 - Truck-based Development and Code Reviews:
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
+- Bias in Code Reviews
+  - [Facebook rejects female engineers’ code more often, analysis finds](https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report)
+  - [Did gender bias drive code review differences at Facebook?](https://medium.com/inclusion-insights/did-gender-bias-drive-code-review-differences-at-facebook-2e1e4dbd8d62)
 
 
 ## Interesting Twitter Discussions
