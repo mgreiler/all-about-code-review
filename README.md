@@ -100,6 +100,9 @@ This section contains experiemental or small but handy bots that aim at making y
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
 
 
+## Developer Discussions about Code Review
+- [Discussion on UX of Goodle Critique and other code review tools](https://news.ycombinator.com/item?id=19102930)
+
 ## Losses due to low-quality software and technical debt
 - [Security upgrades by major banks in wake of Russian cyber hacks spark IT glitches and crash mobile banking](https://www.dailymail.co.uk/news/article-6217839/Chaos-HSBC-customers-hundreds-locked-account.html)
 - [Millions more bank customers hit by online account misery](https://www.thetimes.co.uk/article/millions-more-bank-customers-hit-by-online-account-misery-7xkcstxj3)
