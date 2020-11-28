@@ -103,6 +103,10 @@ This section contains experiemental or small but handy bots that aim at making y
 ## Developer Discussions about Code Review
 - [Discussion on UX of Goodle Critique and other code review tools](https://news.ycombinator.com/item?id=19102930)
 
+
+## Live Code Reviews
+- [Code Review on YouTube for Python](https://youtu.be/Tf70szZwWgA)
+
 ## Losses due to low-quality software and technical debt
 - [Security upgrades by major banks in wake of Russian cyber hacks spark IT glitches and crash mobile banking](https://www.dailymail.co.uk/news/article-6217839/Chaos-HSBC-customers-hundreds-locked-account.html)
 - [Millions more bank customers hit by online account misery](https://www.thetimes.co.uk/article/millions-more-bank-customers-hit-by-online-account-misery-7xkcstxj3)
