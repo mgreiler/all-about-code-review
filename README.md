@@ -25,6 +25,7 @@ Inisghts of different companies on their code review practices:
 - [Palantir: How we do code reviews](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 - [Quora: Using post-commit reviews to increase speed.](https://www.quora.com/q/quoraengineering/Moving-Fast-With-High-Code-Quality)
 - [PayPal's take on code reviews](https://medium.com/paypal-engineering/effective-code-reviews-53d62a203b2f)
+- [Test Double's approach to humane code reviews](https://blog.testdouble.com/posts/2020-10-27-humane-code-reviews/)
 
 
 ## Code Review Articles
