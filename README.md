@@ -55,7 +55,8 @@ This is a list of articles about code reviews grouped by the main topic.
   - [https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/](Making Good Code Reviews Better)   
 
 
-## Interesting Twitter Discussions
+## Interesting Discussions
+- [How to speed up code review assignment](https://news.ycombinator.com/item?id=11416746)
 - [What do we know about the ROI of code reviews?](https://twitter.com/hhariri/status/1315606185937166336?s=20)
 - [Discussion about PR foucs: Clean code not good. Bugs much better.](https://twitter.com/copyconstruct/status/1317277666823741440?s=20)
 - [AWS team lead summarizes how to do PRs](https://twitter.com/curtiseinsmann/status/1317149417330364421?s=20)
