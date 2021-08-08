@@ -56,6 +56,7 @@ This is a list of articles about code reviews grouped by the main topic.
 
 
 ## Interesting Discussions
+- [Tweet about why PRs are a bad idea](https://twitter.com/allenholub/status/1424040299764932623?s=20)
 - [How to speed up code review assignment](https://news.ycombinator.com/item?id=11416746)
 - [What do we know about the ROI of code reviews?](https://twitter.com/hhariri/status/1315606185937166336?s=20)
 - [Discussion about PR foucs: Clean code not good. Bugs much better.](https://twitter.com/copyconstruct/status/1317277666823741440?s=20)
