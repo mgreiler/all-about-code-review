@@ -34,6 +34,7 @@ Inisghts of different companies on their code review practices:
 
 ## Code Review Articles
 This is a list of articles about code reviews grouped by the main topic.
+- [Command Line Code Review](https://blog.jez.io/cli-code-review/)
 - Do's and Don'ts in Code Reviews
   - [Satirical post about how to make code reviews soul crushing](https://daedtech.com/how-to-use-a-code-review-to-execute-someones-soul/)
 - Giving and Receiving Feedback
