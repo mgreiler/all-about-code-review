@@ -58,6 +58,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [https://www.thedroidsonroids.com/blog/splitting-pull-request](Splitting PRs)
   - [https://softwareengineering.stackexchange.com/questions/244688/breaking-up-classes-and-methods-into-smaller-units](Breaking up code)
 - Best Practices:
+  - [https://sizovs.net/2020/07/19/the-code-review](Code Review Best Practices by Eduards Sizovs)
   - [https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/](Making Good Code Reviews Better)   
 
 
