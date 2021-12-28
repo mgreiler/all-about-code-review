@@ -68,6 +68,7 @@ This is a list of articles about code reviews grouped by the main topic.
 - [Discussion about PR foucs: Clean code not good. Bugs much better.](https://twitter.com/copyconstruct/status/1317277666823741440?s=20)
 - [AWS team lead summarizes how to do PRs](https://twitter.com/curtiseinsmann/status/1317149417330364421?s=20)
 - [How does one get better at reading code?](https://twitter.com/Madisonkanna/status/1463596918496399362?s=20)
+- [Code Review Guidelines](https://twitter.com/gkcs_/status/1475781104821063681?s=20)
 - Mini JavaScript Code Reviews in a Tweet from Simon Høiberg
   - [What to do about the average function?](https://twitter.com/SimonHoiberg/status/1317488112147234817?s=20)
   - [Should we approve or reject?](https://twitter.com/SimonHoiberg/status/1313803838357467136?s=20)
