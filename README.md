@@ -59,6 +59,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Breaking up code](https://softwareengineering.stackexchange.com/questions/244688/breaking-up-classes-and-methods-into-smaller-units)
 - Best Practices:
   - [Making Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)   
+  - [20 questions for a valuable code review](https://www.darraghoriordan.com/2021/12/28/21-questiosn-how-to-do-valuable-code-reviews/)
 
 
 ## Interesting Discussions
