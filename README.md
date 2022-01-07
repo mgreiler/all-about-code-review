@@ -132,3 +132,7 @@ This section contains experiemental or small but handy bots that aim at making y
 - [Traders switch to rival after IT bug downs London Stock Exchange](https://www.thetimes.co.uk/edition/business/traders-switch-to-rival-after-it-bug-downs-london-stock-exchange-ct06tmlmp)
 - [Frequent Software Releases, Updates May Injure App Security](https://www.darkreading.com/application-security/frequent-software-releases-updates-may-injure-app-security/d/d-id/1330412)
 
+
+## Initiatives
+- [Code Review in Research by the Oxford Code Review Network](https://github.com/OxfordCodeReviewNet/)
+
