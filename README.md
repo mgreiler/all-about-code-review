@@ -49,6 +49,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
 - Truck-based Development and Code Reviews:
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
+- [Interpersonal conflicts in code reviews](https://arxiv.org/pdf/2201.05425.pdf)
 - Bias in Code Reviews
   - [Facebook rejects female engineers’ code more often, analysis finds](https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report)
   - [Did gender bias drive code review differences at Facebook?](https://medium.com/inclusion-insights/did-gender-bias-drive-code-review-differences-at-facebook-2e1e4dbd8d62)
