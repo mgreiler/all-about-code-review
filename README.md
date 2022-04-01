@@ -50,9 +50,9 @@ This is a list of articles about code reviews grouped by the main topic.
 - Truck-based Development and Code Reviews:
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
 - [Interpersonal conflicts in code reviews](https://arxiv.org/pdf/2201.05425.pdf)
-  — Rejecting OSS contributions:
-    — [SO discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
-    — [Linus Torvald rejecting a security fix](https://lkml.org/lkml/2020/6/1/726)
+  -  Rejecting OSS contributions:
+  - [SO discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
+  - [Linus Torvald rejecting a security fix](https://lkml.org/lkml/2020/6/1/726)
 
 - Bias in Code Reviews
   - [Facebook rejects female engineers’ code more often, analysis finds](https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report)
