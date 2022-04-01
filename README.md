@@ -50,10 +50,14 @@ This is a list of articles about code reviews grouped by the main topic.
 - Truck-based Development and Code Reviews:
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
 - [Interpersonal conflicts in code reviews](https://arxiv.org/pdf/2201.05425.pdf)
+  — Rejecting OSS contributions:
+    — [SO discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
+    — [Linus Torvald rejecting a security fix](https://lkml.org/lkml/2020/6/1/726)
+
 - Bias in Code Reviews
   - [Facebook rejects female engineers’ code more often, analysis finds](https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report)
   - [Did gender bias drive code review differences at Facebook?](https://medium.com/inclusion-insights/did-gender-bias-drive-code-review-differences-at-facebook-2e1e4dbd8d62)
-  - [Research study: Gender bias in open source pull requests]https://www.researchgate.net/publication/308716997_Gender_bias_in_open_source_Pull_request_acceptance_of_women_versus_men)
+  - [Research study: Gender bias in open source pull requests](https://www.researchgate.net/publication/308716997_Gender_bias_in_open_source_Pull_request_acceptance_of_women_versus_men)
 - Splitting Up Too Large Code Reviews
   - [Shrinking Code Reviews](https://alexgaynor.net/2015/dec/29/shrinking-code-review/)
   - [Splitting PRs](https://www.thedroidsonroids.com/blog/splitting-pull-request)
