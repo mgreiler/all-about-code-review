@@ -69,6 +69,7 @@ This is a list of articles about code reviews grouped by the main topic.
 — Rejecting OSS contributions
   — [SO discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
   — [Linus Torvald rejecting a security fix](https://lkml.org/lkml/2020/6/1/726)
+  - [Open source maintainer guide](https://opensource.guide/best-practices/)
 
 
 ## Interesting Discussions
