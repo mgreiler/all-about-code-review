@@ -73,6 +73,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Breaking up code](https://softwareengineering.stackexchange.com/questions/244688/breaking-up-classes-and-methods-into-smaller-units)
   - [Strategies for Small PRs](https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/)
   - [Planning Fallacy - why we underestimate work](https://thedecisionlab.com/biases/planning-fallacy)
+  - [The art of small PRs](https://www.redoxengine.com/blog/the-art-of-the-small-pr/)
 
 
 - Best Practices:
