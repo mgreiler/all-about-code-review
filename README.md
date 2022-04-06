@@ -35,20 +35,25 @@ Inisghts of different companies on their code review practices:
 ## Code Review Articles
 This is a list of articles about code reviews grouped by the main topic.
 - [Command Line Code Review](https://blog.jez.io/cli-code-review/)
+
 - Do's and Don'ts in Code Reviews
   - [Satirical post about how to make code reviews soul crushing](https://daedtech.com/how-to-use-a-code-review-to-execute-someones-soul/)
+
 - Giving and Receiving Feedback
   - [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
   - [How to Do Code Reviews Like a Human by Michael Lynch](https://mtlynch.io/human-code-reviews-1/)
   - [How to Give Respectful and Constructive Code Review Feedback](https://www.michaelagreiler.com/respectful-constructive-code-review-feedback/)
   - [Unlearning Toxic Behaviors in a Code Review Culture by Sandya Sankarram](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
+
 - Stacked Pull Requests:
   - [Stacked Diffs: Keeping Phabricator Diffs Small by Kurtis Nusbaum](https://medium.com/@kurtisnusbaum/stacked-diffs-keeping-phabricator-diffs-small-d9964f4dcfa6)
   - [Stacked Pull Requests for easier and faster code reviews by Michaela Greiler](https://www.michaelagreiler.com/stacked-pull-requests/)
   - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
+
 - Truck-based Development and Code Reviews:
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
+
 - [Interpersonal conflicts in code reviews](https://arxiv.org/pdf/2201.05425.pdf)
   -  Rejecting OSS contributions:
     - [SO discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
@@ -61,10 +66,14 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Facebook rejects female engineers’ code more often, analysis finds](https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report)
   - [Did gender bias drive code review differences at Facebook?](https://medium.com/inclusion-insights/did-gender-bias-drive-code-review-differences-at-facebook-2e1e4dbd8d62)
   - [Research study: Gender bias in open source pull requests](https://www.researchgate.net/publication/308716997_Gender_bias_in_open_source_Pull_request_acceptance_of_women_versus_men)
+
 - Splitting Up Too Large Code Reviews
   - [Shrinking Code Reviews](https://alexgaynor.net/2015/dec/29/shrinking-code-review/)
   - [Splitting PRs](https://www.thedroidsonroids.com/blog/splitting-pull-request)
   - [Breaking up code](https://softwareengineering.stackexchange.com/questions/244688/breaking-up-classes-and-methods-into-smaller-units)
+  - [Strategies for Small PRs](https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/)
+
+
 - Best Practices:
   - [Making Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)   
   - [20 questions for a valuable code review](https://www.darraghoriordan.com/2021/12/28/21-questiosn-how-to-do-valuable-code-reviews/)
