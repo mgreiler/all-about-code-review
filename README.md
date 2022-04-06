@@ -78,11 +78,15 @@ This is a list of articles about code reviews grouped by the main topic.
 - Best Practices:
   - [Making Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)   
   - [20 questions for a valuable code review](https://www.darraghoriordan.com/2021/12/28/21-questiosn-how-to-do-valuable-code-reviews/)
+  
 — Rejecting OSS contributions
-  — [SO discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
+  — [Stack Overflow discussion: unhelpful contribution](https://opensource.stackexchange.com/questions/1556/how-to-react-to-unhelpful-contributions-to-otherwise-unnoticed-projects)
   — [Linus Torvald rejecting a security fix](https://lkml.org/lkml/2020/6/1/726)
+
+- Open Source Best Practices
   - [Open source maintainer guide](https://opensource.guide/best-practices/)
   - [Building Welcoming Communities](https://opensource.guide/building-community/)
+  - [Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296)
 
 
 ## Interesting Discussions
