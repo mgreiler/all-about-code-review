@@ -50,6 +50,7 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Stacked Pull Requests for easier and faster code reviews by Michaela Greiler](https://www.michaelagreiler.com/stacked-pull-requests/)
   - [Stacked Pull Requests: Keeping GitHub Diffs Small by Grayson Koonce](https://unhashable.com/stacked-pull-requests-keeping-github-diffs-small/)
   - [Stacked Pull Requests Hackernews Discussion](https://news.ycombinator.com/item?id=18119570)
+  - [Stacked Pull Request Tools](https://roman.pt/posts/large-pull-requests/)
 
 - Truck-based Development and Code Reviews:
   - [Code Reviews in Trunk Based Development by Robert Ecker](https://team-coder.com/code-reviews-in-trunk-based-development/)
