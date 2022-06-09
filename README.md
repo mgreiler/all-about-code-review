@@ -27,6 +27,7 @@ Inisghts of different companies on their code review practices:
 - [Quora: Using post-commit reviews to increase speed.](https://www.quora.com/q/quoraengineering/Moving-Fast-With-High-Code-Quality)
 - [PayPal's take on code reviews](https://medium.com/paypal-engineering/effective-code-reviews-53d62a203b2f)
 - [Plaid Code Review Culture](https://plaid.com/blog/building-an-inclusive-code-review-culture/)
+- [Raycast: No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
 - [Shopify: Code Review Superpower](https://shopify.engineering/great-code-reviews)
 - [SIG: how we do code reviews](https://medium.com/softwareimprovementgroup/how-we-do-code-reviews-at-sig-6e5189fb1e6c)
 - [Squarespace: Creating a Code Review Culture Part 1](https://engineering.squarespace.com/blog/2019/code-review-culture-part-1)
