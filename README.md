@@ -40,7 +40,7 @@ This is a list of articles about code reviews grouped by the main topic.
 
 - Do's and Don'ts in Code Reviews
   - [Satirical post about how to make code reviews soul crushing](https://daedtech.com/how-to-use-a-code-review-to-execute-someones-soul/)
-
+  - [Satirical post: How to make enemies through code reviews](https://repohealth.io/blog/code-review-how-to-make-enemies/)
 - Giving and Receiving Feedback
   - [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
   - [How to Do Code Reviews Like a Human by Michael Lynch](https://mtlynch.io/human-code-reviews-1/)
