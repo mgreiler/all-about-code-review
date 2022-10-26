@@ -138,6 +138,7 @@ This is a list of articles about code reviews grouped by the main topic.
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [TugBoat](https://www.tugboat.qa/) Builds and deploys each pull request for easier previews of the code under review.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+- [whatthediff.ai](https://whatthediff.ai/) AI based code review tool that explains your PR
 
 ### Experiemental tools 
 This section contains experiemental or small but handy bots that aim at making your live easier during code reviews.
