@@ -92,7 +92,9 @@ This is a list of articles about code reviews grouped by the main topic.
   - [Open source maintainer guide](https://opensource.guide/best-practices/)
   - [Building Welcoming Communities](https://opensource.guide/building-community/)
   - [Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296)
-
+- Clean code and smells/ anti-patterns
+community/)
+  - [185 code smells](https://maximilianocontieri.com/series/code-smells)
 
 ## Interesting Discussions
 - [Tweet about why PRs are a bad idea](https://twitter.com/allenholub/status/1424040299764932623?s=20)
