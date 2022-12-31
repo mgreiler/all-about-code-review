@@ -122,6 +122,7 @@ community/)
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Codacy](https://www.codacy.com/) Static analysis tool that acts as automated code review.
 - [CodeGuru](https://aws.amazon.com/codeguru): Amazon's AI enabled automated code analysis tool.
+- [CodeSandbox CI bot](https://codesandbox.io/docs/ci) builds and deploys every pull request to allow code reviewers to see the code change in action.
 - [CodeStream](https://www.codestream.com/) Code Collaboration Tool that allows for continious code reviews.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
@@ -130,10 +131,12 @@ community/)
 - [Kiro](https://www.kiro.io/) GitHub app that is your PR coach: review reminder and reviewer selection.
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
+- [Prout: Deploy Reminder](https://github.com/guardian/prout) that reminds you that your pull request has been deployed in production and is ready to be tested.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 - [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
+- [ReviewNB](https://www.reviewnb.com/) Code review tool dedicated to review Jupyter Notebooks.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
@@ -142,10 +145,7 @@ community/)
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 - [whatthediff.ai](https://whatthediff.ai/) AI based code review tool that explains your PR
 
-### Experiemental tools 
-This section contains experiemental or small but handy bots that aim at making your live easier during code reviews.
-- [Prout: Deploy Reminder](https://github.com/guardian/prout) that reminds you that your pull request has been deployed in production and is ready to be tested.
-- [CodeSandbox CI bot](https://codesandbox.io/docs/ci) builds and deploys every pull request to allow code reviewers to see the code change in action.
+
 
 
 ## Code Review Checklists
