@@ -95,6 +95,9 @@ This is a list of articles about code reviews grouped by the main topic.
 - Clean code and smells/ anti-patterns
 community/)
   - [185 code smells](https://maximilianocontieri.com/series/code-smells)
+  
+- Code Review Survey
+  - [Smartbear cide review survey 2021](https://smartbear.com/blog/top-10-insights-on-the-state-of-code-review/)
 
 ## Interesting Discussions
 - [Tweet about why PRs are a bad idea](https://twitter.com/allenholub/status/1424040299764932623?s=20)
