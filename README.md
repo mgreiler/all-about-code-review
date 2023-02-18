@@ -126,6 +126,7 @@ community/)
 - [Codacy](https://www.codacy.com/) Static analysis tool that acts as automated code review.
 - [CodeGuru](https://aws.amazon.com/codeguru): Amazon's AI enabled automated code analysis tool.
 - [CodeSandbox CI bot](https://codesandbox.io/docs/ci) builds and deploys every pull request to allow code reviewers to see the code change in action.
+- [CodeSee](https://www.codesee.io/): Visualize your codebase for code reviews.
 - [CodeStream](https://www.codestream.com/) Code Collaboration Tool that allows for continious code reviews.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
