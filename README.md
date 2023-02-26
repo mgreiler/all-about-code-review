@@ -1,9 +1,9 @@
 # All About Code Review
 
 This is a curated collection of articles, tools, checklists and other awesome resources about code reviews.
+For more insights into code reviews go to [awesomecodereviews.com](https://www.awesomecodereviews.com/).
 
 Contributions welcome - especially highlighting how different companies do code reviews.
-
 If you want to suggest a new ressource, please open a pull request.
 
 ## Contents
