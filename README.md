@@ -114,7 +114,7 @@ community/)
   - [Clean refactoring?](https://twitter.com/SimonHoiberg/status/1310136847197061121?s=20)
   - [What about this DOM element?](https://twitter.com/SimonHoiberg/status/1311191044915179521?s=20)
   - [Using the filter method in JavaScript](https://twitter.com/SimonHoiberg/status/1320299813657825281?s=20)
-  
+- [Subjectivity of clean code](https://twitter.com/tottinge/status/1649172861670821889?s=46&t=tYr5H3Z8rM69vGoM-6z9bA)
 
 ## Code Review Videos
 - [10 Tips on How to give respectful code review feedback by Michaela Greiler](https://youtu.be/NNXk_WJzyMI)
