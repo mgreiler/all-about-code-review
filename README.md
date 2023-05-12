@@ -150,8 +150,6 @@ community/)
 - [whatthediff.ai](https://whatthediff.ai/) AI based code review tool that explains your PR
 
 
-
-
 ## Code Review Checklists
 - [A curated list of code review checklists](https://github.com/mgreiler/awesome-code-review-checklists) Contains code review checklists from General to Language-based (Java, C# etc.)
 - [General Code Review Checklists](https://github.com/mgreiler/code-review-checklist) A language agnostic code review checklist containing all relevant aspects.
@@ -164,7 +162,15 @@ community/)
 
 
 ## Live Code Reviews
-- [Code Review on YouTube for Python](https://youtu.be/Tf70szZwWgA)
+- [Code Review on YouTube for Python](https://youtu.be/Tf70szZwWgA): Small Pyhton game, where the reviewer also uses tests to see how the code works. Part of the review is fixing one bug, and making it Pep 8 conform, as well as fixing static analysis problems.
+- [Java code review with a focus on making the code DRY](https://www.youtube.com/watch?v=uD37ZTosqmI&ab_channel=strager): Applying the don't repeat yourself principle during a code review.
+- [Live refactoring of React code](https://www.youtube.com/watch?v=CF7uDDDe2BM&ab_channel=WebDevCody)
+- [Live C++ Code Review](https://www.youtube.com/watch?v=rFnRzW3vvsQ&ab_channel=C%2B%2BWeeklyWithJasonTurner)
+- [GERMAN: Code review JavaScript](https://www.youtube.com/watch?v=LxGDI0aG3rk&ab_channel=thenativewebGmbH)
+- [Live Code Review - CTRE](https://www.youtube.com/watch?v=h1Qf_DYpfqs&ab_channel=C%2B%2BWeeklyWithJasonTurner): Reviewing a compile time PCRE compatible regular expression matcher - Compile time regular expressions
+- [Security focused code review](https://www.youtube.com/watch?v=xBZps1k1sxI&ab_channel=FarahHawa): Bug bounty style review
+- [Review for/by data scientists](https://www.youtube.com/watch?v=i6kVLu_Jx7M&ab_channel=Kaggle)
+- [Flutter Code Review](https://www.youtube.com/watch?v=76P_0-loqzM&ab_channel=Flutter): 
 
 ## Losses due to low-quality software and technical debt
 - [Security upgrades by major banks in wake of Russian cyber hacks spark IT glitches and crash mobile banking](https://www.dailymail.co.uk/news/article-6217839/Chaos-HSBC-customers-hundreds-locked-account.html)
@@ -175,4 +181,7 @@ community/)
 
 ## Initiatives
 - [Code Review in Research by the Oxford Code Review Network](https://github.com/OxfordCodeReviewNet/)
+
+## Practice Code Snippets
+- [Vulnerable code snippets from We Hack](https://github.com/yeswehack/vulnerable-code-snippets)
 
