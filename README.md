@@ -156,6 +156,7 @@ community/)
 - [30+ items for Reviewing Java Code](https://www.java-success.com/30-java-code-review-checklist-items/) A checklist with concrete examples, covering aspects relevant to object-oriented programming.
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
 - [Practical short checklist](https://github.com/ryanmcdermott/code-review-tips): Shows a couple of basic readability/maintainability and security issues to check for.
+- [Short Checklist for C#](https://github.com/samuelwill/csharp-code-review-checklist): Highlightning some basic checks.
 
 
 ## Developer Discussions about Code Review
