@@ -150,6 +150,10 @@ community/)
 - [whatthediff.ai](https://whatthediff.ai/) AI based code review tool that explains your PR
 
 
+## AI Code Review Tools
+- [Codemindai](https://codemindai.com/): Review code with the power of AI. Works for GitLab or Github.
+
+
 ## Code Review Checklists
 - [A curated list of code review checklists](https://github.com/mgreiler/awesome-code-review-checklists) Contains code review checklists from General to Language-based (Java, C# etc.)
 - [General Code Review Checklists](https://github.com/mgreiler/code-review-checklist) A language agnostic code review checklist containing all relevant aspects.
